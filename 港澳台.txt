@@ -1,7 +1,10 @@
 港澳台,#genre#
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,rtmp://61.184.240.184/live/yifatv-wxxw01
 无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+无线新闻,http://74.91.26.218:82/live/inews.m3u8
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 无线新闻,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
 无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
@@ -41,10 +44,12 @@
 無線新聞台,https://t.freetv.fun/live/wu-xian-xin-wen-5.php
 無線新聞台,https://t.freetv.fun/live/wu-xian-xin-wen-6.m3u8
 凤凰香港台,http://pull-vivek.speedws.com/live/aaafhxg.flv
-凤凰香港台,http://tri-metal.dsmynas.net:8001/bysid/85.m3u
+凤凰香港台,http://156.238.248.80:5050/smart.php?id=hkphoenix_twn&token=8522
 凤凰香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+凤凰资讯[854x480],https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
 Now新闻台,http://cdn.163189.xyz/163189/now
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=QLWSn7&tk=rf2ptUUwLxlr
 Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻台,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
