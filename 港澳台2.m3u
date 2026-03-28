@@ -1,0 +1,353 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://bziyunshao.synology.me:8890/bysid/83.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://pull-vivek.speedws.com/live/aaawxxw.flv
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=pe4xur&tk=iV5lh1rLxQGN
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+rtmp://61.184.240.184/live/yifatv-wxxw01
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://hls.iill.top/api/TVB-News/index.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://175.178.182.213/tb/无线新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=dpY4kc&tk=zblqNNVWbQW2
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="http://175.178.182.213/tb/无线新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻台
+http://rihou.cc:555/tv/hktv%2F0812
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=XOyJra&tk=FFMxszsfKIBf
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://rihou.cc:555/tv/[Mt]无线新闻
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://vhr.dpdns.org/20003/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://t.freetv.fun/live/wu-xian-xin-wen.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://t.freetv.fun/live/wu-xian-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://t.freetv.fun/live/wu-xian-xin-wen-3.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://hls-pull-lumawnew.speedws.com/live/8909061706b522e5620dbfe2b5f7d33e.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1att96&tk=inWducl7RAaR
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MCMnUN&tk=inWducl7RAaR
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://vhr.dpdns.org/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://t.061899.xyz/tl/168.php?id=wxxwt
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://weixin.qq.home.kg/smtv.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+https://edge.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+#EXTINF:-1 tvg-name="互動新聞台" tvg-logo="http://175.178.182.213/tb/互動新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",互動新聞台
+https://smt.goiptv.us.ci/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="http://175.178.182.213/tb/無綫新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無綫新聞台
+https://hls.iill.top/api/TVB-News/index.m3u8
+#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="http://175.178.182.213/tb/無綫新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無綫新聞台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=OBemUH&tk=FFMxszsfKIBf
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-1.php
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-3.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-4.php
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-5.php
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+https://t.freetv.fun/live/wu-xian-xin-wen-6.m3u8
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+http://bziyunshao.synology.me:8890/bysid/85
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+http://pull-vivek.speedws.com/live/aaafhxg.flv
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+http://156.238.248.80:5050/smart.php?id=hkphoenix_twn&token=8522
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=IKsM8e&tk=zblqNNVWbQW2
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="http://175.178.182.213/tb/凤凰香港台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港台
+https://smt.goiptv.us.ci/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯[854x480]" tvg-logo="http://175.178.182.213/tb/凤凰资讯[854x480].png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰资讯[854x480]
+https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="http://175.178.182.213/tb/Now新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="http://175.178.182.213/tb/Now新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="http://175.178.182.213/tb/Now新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻台
+http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=QLWSn7&tk=rf2ptUUwLxlr
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="http://175.178.182.213/tb/Now新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻台
+http://rihou.cc:555/tv/[Mt]Now新闻
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="http://175.178.182.213/tb/Now新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻台
+P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="http://175.178.182.213/tb/中天新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新闻台
+http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="http://175.178.182.213/tb/中天新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新闻台
+http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=Ii61f2&tk=iV5lh1rLxQGN
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="http://175.178.182.213/tb/中天新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新闻台
+http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="http://175.178.182.213/tb/中天新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新闻台
+http://156.238.248.80:5050/smart.php?id=ctinews&token=8522
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="http://175.178.182.213/tb/台视新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",台视新闻台
+http://156.238.248.80:5050/smart.php?id=ttvnews_twn&token=8522
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="http://175.178.182.213/tb/中天综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天综合
+http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="http://175.178.182.213/tb/鳳凰香港.png" epg-url="http://epg.51zmt.top:8000/e.xml",鳳凰香港
+p2p://64.32.9.99:7999/02e951464b17777d78d69d2c83af22c8.ts
+#EXTINF:-1 tvg-name="鳳凰資訊FHD" tvg-logo="http://175.178.182.213/tb/鳳凰資訊FHD.png" epg-url="http://epg.51zmt.top:8000/e.xml",鳳凰資訊FHD
+p2p://64.32.9.99:7999/e66ec28b5bdb0f8892cfc046a80d775c.ts
+#EXTINF:-1 tvg-name="鳳凰資訊HD" tvg-logo="http://175.178.182.213/tb/鳳凰資訊HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",鳳凰資訊HD
+p2p://64.32.9.99:7999/ee987b5f253f85f3ac789fc18266e98d.ts
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="http://175.178.182.213/tb/中天新聞.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新聞
+p2p://64.32.9.99:7999/8d13c790ceb548d8627d2e5f0382e489.ts
+#EXTINF:-1 tvg-name="中天新聞FHD" tvg-logo="http://175.178.182.213/tb/中天新聞FHD.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天新聞FHD
+p2p://64.32.9.99:7999/ce52eb547646c6c5c2c592b90087d943.ts
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://175.178.182.213/tb/無線新聞台.png" epg-url="http://epg.51zmt.top:8000/e.xml",無線新聞台
+p2p://64.32.9.99:7999/5619d5c6d81e1a0a6669a0809742b7ce.ts
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+http://156.238.248.80:5050/smart.php?id=inews_twn&token=8522
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://175.178.182.213/tb/无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻
+mitv://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://175.178.182.213/tb/CHC动作电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC动作电影
+P2p://starvod.xyz:19806/0999fa74f14540bc8fe2a157cc224391
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://175.178.182.213/tb/CHC高清电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC高清电影
+P2p://starvod.xyz:19806/4945032366244655b517260d2b3f6afb
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://175.178.182.213/tb/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC家庭影院
+P2p://starvod.xyz:19806/e3d527e8d47642028bcdca7cb587d8e8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="http://175.178.182.213/tb/重温经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",重温经典
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="http://175.178.182.213/tb/NOW新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",NOW新闻台
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://175.178.182.213/tb/TVB翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠台
+https://cdn6.101.qzz.io/163189/fct
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="http://175.178.182.213/tb/TVB翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="http://175.178.182.213/tb/TVB明珠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="TVBplus" tvg-logo="http://175.178.182.213/tb/TVBplus.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBplus
+https://cdn6.101.qzz.io/163189/tvbp
+#EXTINF:-1 tvg-name="新唐人亚太" tvg-logo="http://175.178.182.213/tb/新唐人亚太.png" epg-url="http://epg.51zmt.top:8000/e.xml",新唐人亚太
+https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="http://175.178.182.213/tb/亚洲卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/tb/凤凰资讯.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://175.178.182.213/tb/凤凰香港.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/凤凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="新唐人亚太" tvg-logo="http://175.178.182.213/tb/新唐人亚太.png" epg-url="http://epg.51zmt.top:8000/e.xml",新唐人亚太
+https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="http://175.178.182.213/tb/亚洲卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",亚洲卫视
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="http://175.178.182.213/tb/SPOTV.png" epg-url="http://epg.51zmt.top:8000/e.xml",SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="http://175.178.182.213/tb/SPOTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml",SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 tvg-name="astroFootball" tvg-logo="http://175.178.182.213/tb/astroFootball.png" epg-url="http://epg.51zmt.top:8000/e.xml",astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-name="TntSports3" tvg-logo="http://175.178.182.213/tb/TntSports3.png" epg-url="http://epg.51zmt.top:8000/e.xml",TntSports3
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-name="wwwe" tvg-logo="http://175.178.182.213/tb/wwwe.png" epg-url="http://epg.51zmt.top:8000/e.xml",wwwe
+http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-name="博斯運動1" tvg-logo="http://175.178.182.213/tb/博斯運動1.png" epg-url="http://epg.51zmt.top:8000/e.xml",博斯運動1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="http://175.178.182.213/tb/鳳凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",鳳凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="http://175.178.182.213/tb/TVB翡翠.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-name="TVB翡翠(馬來)" tvg-logo="http://175.178.182.213/tb/TVB翡翠(馬來).png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠(馬來)
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="http://175.178.182.213/tb/TVB明珠.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="http://175.178.182.213/tb/TVBJ1.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="http://175.178.182.213/tb/TVB1.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="http://175.178.182.213/tb/千禧经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="http://175.178.182.213/tb/HOY77.png" epg-url="http://epg.51zmt.top:8000/e.xml",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="http://175.178.182.213/tb/HOY78.png" epg-url="http://epg.51zmt.top:8000/e.xml",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="http://175.178.182.213/tb/RTHK31.png" epg-url="http://epg.51zmt.top:8000/e.xml",RTHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://175.178.182.213/tb/TVB娱乐新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-name="MYTV黃金翡翠" tvg-logo="http://175.178.182.213/tb/MYTV黃金翡翠.png" epg-url="http://epg.51zmt.top:8000/e.xml",MYTV黃金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-name="TVB翡翠劇集" tvg-logo="http://175.178.182.213/tb/TVB翡翠劇集.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠劇集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="http://175.178.182.213/tb/澳視澳門.png" epg-url="http://epg.51zmt.top:8000/e.xml",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="http://175.178.182.213/tb/TVBS新聞.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-name="非凡直播" tvg-logo="http://175.178.182.213/tb/非凡直播.png" epg-url="http://epg.51zmt.top:8000/e.xml",非凡直播
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-name="民视" tvg-logo="http://175.178.182.213/tb/民视.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-name="華藝中文" tvg-logo="http://175.178.182.213/tb/華藝中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",華藝中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="http://175.178.182.213/tb/爱奇艺.png" epg-url="http://epg.51zmt.top:8000/e.xml",爱奇艺
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-name="臺灣戲劇" tvg-logo="http://175.178.182.213/tb/臺灣戲劇.png" epg-url="http://epg.51zmt.top:8000/e.xml",臺灣戲劇
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 tvg-name="EYE戏剧" tvg-logo="http://175.178.182.213/tb/EYE戏剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",EYE戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="http://175.178.182.213/tb/緯來電影.png" epg-url="http://epg.51zmt.top:8000/e.xml",緯來電影
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-name="東森电影" tvg-logo="http://175.178.182.213/tb/東森电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",東森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-name="龍華电影" tvg-logo="http://175.178.182.213/tb/龍華电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",龍華电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="http://175.178.182.213/tb/民視綜藝.png" epg-url="http://epg.51zmt.top:8000/e.xml",民視綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="http://175.178.182.213/tb/TVBS精采.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-name="美亚电影(台)" tvg-logo="http://175.178.182.213/tb/美亚电影(台).png" epg-url="http://epg.51zmt.top:8000/e.xml",美亚电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="http://175.178.182.213/tb/東森洋片.png" epg-url="http://epg.51zmt.top:8000/e.xml",東森洋片
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-name="爱尔达综合" tvg-logo="http://175.178.182.213/tb/爱尔达综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",爱尔达综合
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-name="ROCK_Action" tvg-logo="http://175.178.182.213/tb/ROCK_Action.png" epg-url="http://epg.51zmt.top:8000/e.xml",ROCK_Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 tvg-name="JET综合" tvg-logo="http://175.178.182.213/tb/JET综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",JET综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="http://175.178.182.213/tb/八度空间.png" epg-url="http://epg.51zmt.top:8000/e.xml",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 tvg-name="BBC_Earth" tvg-logo="http://175.178.182.213/tb/BBC_Earth.png" epg-url="http://epg.51zmt.top:8000/e.xml",BBC_Earth
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="http://175.178.182.213/tb/中视经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视经典
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/凤凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=60
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://175.178.182.213/tb/凤凰资讯.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰资讯
+http://iptv.4666888.xyz/iptv2A.php?id=61
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://175.178.182.213/tb/凤凰香港.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港
+http://iptv.4666888.xyz/iptv2A.php?id=62
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="http://175.178.182.213/tb/TVB翡翠.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=63
+#EXTINF:-1 tvg-name="TVB_PULS" tvg-logo="http://175.178.182.213/tb/TVB_PULS.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB_PULS
+http://iptv.4666888.xyz/iptv2A.php?id=64
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="http://175.178.182.213/tb/TVB明珠.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=66
+#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="http://175.178.182.213/tb/TVB无线新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB无线新闻
+http://iptv.4666888.xyz/iptv2A.php?id=65
+#EXTINF:-1 tvg-name="TVB生活" tvg-logo="http://175.178.182.213/tb/TVB生活.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB生活
+http://iptv.4666888.xyz/iptv2A.php?id=67
+#EXTINF:-1 tvg-name="TVB星河(粤)" tvg-logo="http://175.178.182.213/tb/TVB星河(粤).png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB星河(粤)
+http://iptv.4666888.xyz/iptv2A.php?id=68
+#EXTINF:-1 tvg-name="TVB星河(国)" tvg-logo="http://175.178.182.213/tb/TVB星河(国).png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB星河(国)
+http://iptv.4666888.xyz/iptv2A.php?id=69
+#EXTINF:-1 tvg-name="TVB武侠粤" tvg-logo="http://175.178.182.213/tb/TVB武侠粤.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB武侠粤
+http://iptv.4666888.xyz/iptv2A.php?id=9
+#EXTINF:-1 tvg-name="TVB武侠国" tvg-logo="http://175.178.182.213/tb/TVB武侠国.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB武侠国
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="http://175.178.182.213/tb/TVB1.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=70
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="http://175.178.182.213/tb/TVBJ1.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=71
+#EXTINF:-1 tvg-name="TVBE" tvg-logo="http://175.178.182.213/tb/TVBE.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVBE
+http://iptv.4666888.xyz/iptv2A.php?id=75
+#EXTINF:-1 tvg-name="TVB翡翠剧集" tvg-logo="http://175.178.182.213/tb/TVB翡翠剧集.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB翡翠剧集
+http://iptv.4666888.xyz/iptv2A.php?id=72
+#EXTINF:-1 tvg-name="TVB明珠剧集" tvg-logo="http://175.178.182.213/tb/TVB明珠剧集.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB明珠剧集
+http://iptv.4666888.xyz/iptv2A.php?id=73
+#EXTINF:-1 tvg-name="TVB新闻娱乐" tvg-logo="http://175.178.182.213/tb/TVB新闻娱乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB新闻娱乐
+http://iptv.4666888.xyz/iptv2A.php?id=74
+#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="http://175.178.182.213/tb/TVB千禧经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=76
+#EXTINF:-1 tvg-name="TVB黄金华剧" tvg-logo="http://175.178.182.213/tb/TVB黄金华剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB黄金华剧
+http://iptv.4666888.xyz/iptv2A.php?id=80
+#EXTINF:-1 tvg-name="Now新闻" tvg-logo="http://175.178.182.213/tb/Now新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now新闻
+http://iptv.4666888.xyz/iptv2A.php?id=81
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="http://175.178.182.213/tb/Now财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now财经
+http://iptv.4666888.xyz/iptv2A.php?id=82
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="http://175.178.182.213/tb/Now财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now财经
+http://iptv.4666888.xyz/iptv2A.php?id=83
+#EXTINF:-1 tvg-name="Now华剧" tvg-logo="http://175.178.182.213/tb/Now华剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now华剧
+http://iptv.4666888.xyz/iptv2A.php?id=84
+#EXTINF:-1 tvg-name="VIU剧集" tvg-logo="http://175.178.182.213/tb/VIU剧集.png" epg-url="http://epg.51zmt.top:8000/e.xml",VIU剧集
+http://iptv.4666888.xyz/iptv2A.php?id=85
+#EXTINF:-1 tvg-name="Now爆谷" tvg-logo="http://175.178.182.213/tb/Now爆谷.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now爆谷
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-name="Now星影" tvg-logo="http://175.178.182.213/tb/Now星影.png" epg-url="http://epg.51zmt.top:8000/e.xml",Now星影
+http://iptv.4666888.xyz/iptv2A.php?id=7
+#EXTINF:-1 tvg-name="HOY76" tvg-logo="http://175.178.182.213/tb/HOY76.png" epg-url="http://epg.51zmt.top:8000/e.xml",HOY76
+http://iptv.4666888.xyz/iptv2A.php?id=87
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="http://175.178.182.213/tb/HOY77.png" epg-url="http://epg.51zmt.top:8000/e.xml",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=88
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="http://175.178.182.213/tb/HOY78.png" epg-url="http://epg.51zmt.top:8000/e.xml",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=89
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="http://175.178.182.213/tb/VIUTV.png" epg-url="http://epg.51zmt.top:8000/e.xml",VIUTV
+http://iptv.4666888.xyz/iptv2A.php?id=90
+#EXTINF:-1 tvg-name="viutv6" tvg-logo="http://175.178.182.213/tb/viutv6.png" epg-url="http://epg.51zmt.top:8000/e.xml",viutv6
+http://iptv.4666888.xyz/iptv2A.php?id=91
+#EXTINF:-1 tvg-name="RHK31" tvg-logo="http://175.178.182.213/tb/RHK31.png" epg-url="http://epg.51zmt.top:8000/e.xml",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=92
+#EXTINF:-1 tvg-name="RHK32" tvg-logo="http://175.178.182.213/tb/RHK32.png" epg-url="http://epg.51zmt.top:8000/e.xml",RHK32
+http://iptv.4666888.xyz/iptv2A.php?id=93
+#EXTINF:-1 tvg-name="mytvsuper亚洲剧" tvg-logo="http://175.178.182.213/tb/mytvsuper亚洲剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper亚洲剧
+http://iptv.4666888.xyz/iptv2A.php?id=94
+#EXTINF:-1 tvg-name="mytvsuper黄金翡翠" tvg-logo="http://175.178.182.213/tb/mytvsuper黄金翡翠.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper黄金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=95
+#EXTINF:-1 tvg-name="mytvsuper黄金翡翠" tvg-logo="http://175.178.182.213/tb/mytvsuper黄金翡翠.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper黄金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=96
+#EXTINF:-1 tvg-name="mytvsuper经典" tvg-logo="http://175.178.182.213/tb/mytvsuper经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper经典
+http://iptv.4666888.xyz/iptv2A.php?id=97
+#EXTINF:-1 tvg-name="mytvsuper华剧" tvg-logo="http://175.178.182.213/tb/mytvsuper华剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper华剧
+http://iptv.4666888.xyz/iptv2A.php?id=98
+#EXTINF:-1 tvg-name="mytvsuper少儿" tvg-logo="http://175.178.182.213/tb/mytvsuper少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper少儿
+http://iptv.4666888.xyz/iptv2A.php?id=99
+#EXTINF:-1 tvg-name="mytvsuper戏典" tvg-logo="http://175.178.182.213/tb/mytvsuper戏典.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper戏典
+http://iptv.4666888.xyz/iptv2A.php?id=100
+#EXTINF:-1 tvg-name="mytvsuper粤语片" tvg-logo="http://175.178.182.213/tb/mytvsuper粤语片.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper粤语片
+http://iptv.4666888.xyz/iptv2A.php?id=101
+#EXTINF:-1 tvg-name="mytvsuper华剧" tvg-logo="http://175.178.182.213/tb/mytvsuper华剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",mytvsuper华剧
+http://iptv.4666888.xyz/iptv2A.php?id=102
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+http://iptv.4666888.xyz/iptv2A.php?id=77
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+http://iptv.4666888.xyz/iptv2A.php?id=78
